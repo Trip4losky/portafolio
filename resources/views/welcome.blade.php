@@ -476,14 +476,16 @@
     <div>
         <h1 class="ultimosProyectos">Últimos proyectos</h1>
         <div class="contenedor">
-            <div class="card elemento">
-                <img src="image\code-gd6ac7ba1d_640.jpg" class="card-img-top" alt="...">
-                <div class="card-body">
-                  <h5 class="card-title">Card title</h5>
-                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                  <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                <div class="card elemento">
+                    <a class="nav-link" href="https://rent-car.tripalosky.com/public/" target="_blank">
+                    <img src="image\rent-car.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title">Rent Car</h5>
+                      <p class="card-text">Rent Car es una página web sencilla de alquileres de coches, que está desarrollada con Laravel 8 y Bootstrap como tecnologías principales.</p>
+                      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    </div>
+                </a>
                 </div>
-            </div>
 
             <div class="card elemento">
                 <img src="image\code-gd6ac7ba1d_640.jpg" class="card-img-top" alt="...">
